@@ -22,6 +22,10 @@ https://docs.atlassian.com/software/jira/docs/api/REST/7.6.1/#api/2/field-getFie
 
 https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issues/#api-group-issues
 
+## 1С
+
+https://wonderland.v8.1c.ru/
+
 ## 1С ugly
 
 https://infostart.ru/1c/articles/934237/
