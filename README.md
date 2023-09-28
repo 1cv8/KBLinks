@@ -27,3 +27,7 @@ https://infostart.ru/1c/articles/934237/
 
 https://htmlacademy.ru/blog/git/first-aid-git
 
+## KD2
+
+https://infostart.ru/1c/articles/1293246/
+
