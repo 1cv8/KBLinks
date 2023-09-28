@@ -26,6 +26,7 @@ https://infostart.ru/1c/articles/934237/
 ## GIT
 
 https://htmlacademy.ru/blog/git/first-aid-git
+https://training.github.com/downloads/ru/github-git-cheat-sheet/
 
 ## KD2
 
