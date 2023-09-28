@@ -32,3 +32,7 @@ https://training.github.com/downloads/ru/github-git-cheat-sheet/
 
 https://infostart.ru/1c/articles/1293246/
 
+## EDT
+
+https://its.1c.ru/db/edtdoc/content/116/hdoc
+https://edt.1c.ru/upload/docs_git/topics/t000063.html
