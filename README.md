@@ -10,6 +10,8 @@ https://ola.hallengren.com/
 
 https://github.com/f103a26/lustin_lost_articles/blob/master/all-you-need-is-expert/all-you-need-is-expert.md
 
+https://www.solarwinds.com/free-tools/plan-explorer
+
 ## tech log
 
 https://github.com/Polyplastic/1c-parsing-tech-log
