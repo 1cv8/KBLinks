@@ -30,6 +30,7 @@ https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issues/#ap
 
 https://wonderland.v8.1c.ru/
 https://1smonitor.ru/
+https://its.1c.ru/db/metod8dev/content/5899/hdoc
 
 ## 1С ugly
 
