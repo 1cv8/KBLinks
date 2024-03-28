@@ -53,3 +53,9 @@ https://infostart.ru/1c/articles/1293246/
 https://its.1c.ru/db/edtdoc/content/116/hdoc
 
 https://edt.1c.ru/upload/docs_git/topics/t000063.html
+
+## admin
+
+http://www.gilev.ru/admin1castra/
+
+http://www.gilev.ru/zabbix/
