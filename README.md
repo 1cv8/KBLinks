@@ -12,6 +12,8 @@ https://github.com/f103a26/lustin_lost_articles/blob/master/all-you-need-is-expe
 
 https://www.solarwinds.com/free-tools/plan-explorer
 
+https://github.com/microsoft/tigertoolbox/tree/master/AdaptiveIndexDefrag
+
 ## tech log
 
 https://github.com/Polyplastic/1c-parsing-tech-log
